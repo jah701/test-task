@@ -1,4 +1,4 @@
-## **Test Task 07/12/2020**
+## **Test Task**
 
 * Functionality to solve the tasks implemented:
   * BracketService `(task 1)`
